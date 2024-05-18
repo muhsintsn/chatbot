@@ -1,0 +1,9 @@
+langchain
+google-generativeai
+chromadb
+langchain-google-genai
+pypdfium2
+streamlit
+
+
+
